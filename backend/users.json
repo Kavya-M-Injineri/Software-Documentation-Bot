@@ -1,0 +1,20 @@
+[
+  {
+    "id": "user_7ac929a5",
+    "email": "test@example.com",
+    "password": "test123",
+    "name": "Test User",
+    "company": "Acme",
+    "role": "Developer",
+    "createdAt": "2026-02-20T16:17:01.035499"
+  },
+  {
+    "id": "user_6ad42963",
+    "email": "kavyainjineri@gmail.com",
+    "password": "123456",
+    "name": "Kavya Injineri",
+    "company": "tech",
+    "role": "Developer",
+    "createdAt": "2026-02-20T17:24:11.638227"
+  }
+]

@@ -1,0 +1,8 @@
+@import './fonts.css';
+@import './tailwind.css';
+@import './theme.css';
+
+/* Custom styles for 3D perspective effects */
+.perspective-1000 {
+  perspective: 1000px;
+}

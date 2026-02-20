@@ -1,0 +1,12 @@
+{
+  "total_queries": 27,
+  "topic_counts": {
+    "General": 15,
+    "Python": 11,
+    "Web Development": 1
+  },
+  "daily_counts": {
+    "2026-02-20": 27
+  },
+  "response_times": []
+}

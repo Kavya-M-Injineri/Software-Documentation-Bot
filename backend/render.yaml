@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: devdoc-ai-backend
+    env: python
+    buildCommand: pip install -r backend/requirements.txt && python backend/ingest.py || true
+    startCommand: uvicorn backend.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: FRONTEND_URL
+        value: https://your-vercel-app.vercel.app
+      - key: JWT_SECRET
+        generateValue: true

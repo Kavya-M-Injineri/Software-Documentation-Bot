@@ -1,0 +1,6 @@
+question_id,category,question,response
+1,Python,What is list comprehension in Python?,A concise syntax to create lists: [expr for item in iterable if condition]. Faster and more readable than for loops.
+2,Python,What is a Python decorator?,A function that wraps another function to add behaviour (@syntax). Used for logging, auth, caching.
+3,Web Development,What is a REST API?,An architectural style using HTTP methods (GET/POST/PUT/DELETE) to perform CRUD on resources. Returns JSON.
+4,Databases,What is the difference between SQL and NoSQL?,SQL is relational with fixed schemas; NoSQL is flexible and schema-less. SQL is better for complex queries; NoSQL scales horizontally.
+5,DevOps,What is Docker?,A containerization platform that packages apps and their dependencies into isolated containers for consistent deployment.
