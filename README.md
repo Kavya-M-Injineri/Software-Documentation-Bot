@@ -1,5 +1,5 @@
 # DevDoc AI — RAG Documentation Assistant
-......................................
+
 A full-stack **Retrieval-Augmented Generation (RAG)** documentation chatbot. Users ask questions, and the system retrieves semantically relevant content from an embedded knowledge base before generating grounded answers via Google Gemini — eliminating hallucinations on domain-specific docs.
 
 ---
